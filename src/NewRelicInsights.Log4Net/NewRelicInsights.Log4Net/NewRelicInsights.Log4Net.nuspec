@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NewRelicInsights.Log4Net</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Jasmin Mistry</authors>
+    <owners>Jasmin Mistry</owners>
+    <licenseUrl>https://github.com/jasmin-mistry/NewRelicInsights.Log4Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jasmin-mistry/NewRelicInsights.Log4Net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Log4Net appender which sends logs to the New Relic Insights using API calls.</description>
+    <releaseNotes>A New Relic Insights appender for Log4Net.</releaseNotes>
+    <copyright>Jasmin Mistry</copyright>
+    <tags>log4net new relic insights api</tags>
+  </metadata>
+</package>
